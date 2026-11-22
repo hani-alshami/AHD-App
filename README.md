@@ -1,10 +1,14 @@
+<div dir="rtl">
+
 <div align="center">
 
 <img src="docs/readme/hero.svg" width="100%" alt="عَهْد — يومك يبدأ بالفجر" />
 
 **من الفجر إلى وردك اليومي، كل ما تحتاجه في مكان واحد.**
 
-[**تحميل عهد لأندرويد ↓**](https://github.com/hani-alshami/AHD-App/releases/latest/download/AHD-0.1.0-Android.apk)
+<a href="https://github.com/hani-alshami/AHD-App/releases/latest/download/AHD-0.1.0-Android.apk"><img src="docs/readme/download.svg" width="240" alt="تحميل عهد لأندرويد" /></a>
+
+[صفحة الإصدار](https://github.com/hani-alshami/AHD-App/releases/latest)
 &nbsp; · &nbsp; [سياسة الخصوصية](PRIVACY.md)
 &nbsp; · &nbsp; [الدعم](mailto:hani.websolutions@gmail.com)
 
@@ -62,3 +66,5 @@ Android 7.0+ &nbsp; | &nbsp; عربي وEnglish &nbsp; | &nbsp; فاتح ودا�
 راجع [مصادر المحتوى وتراخيص المكونات](THIRD_PARTY_NOTICES.md). صفحة التعريف هذه لا تتيح الكود الخاص بالتطبيق.
 
 <div align="center"><sub>عَهْد · يومك يبدأ بالفجر</sub></div>
+
+</div>

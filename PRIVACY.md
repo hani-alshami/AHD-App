@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # سياسة خصوصية عَهْد
 
 آخر تحديث: 22 نوفمبر 2026. الناشر: عَهْد — هاني الشامي. التواصل: [hani.websolutions@gmail.com](mailto:hani.websolutions@gmail.com).
@@ -47,3 +49,5 @@
 ## التحديثات والتواصل
 
 سنحدّث تاريخ هذه الصفحة عند تغييرها. للاستفسارات أو طلب تصحيح بياناتك أو حذفها: [hani.websolutions@gmail.com](mailto:hani.websolutions@gmail.com).
+
+</div>
