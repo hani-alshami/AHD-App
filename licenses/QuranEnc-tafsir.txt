@@ -1,0 +1,19 @@
+Arabic tafsir data supplied by the Encyclopedia of the Noble Quran (QuranEnc.com).
+
+- Al-Tafsir Al-Muyassar, Arabic edition 1.0.0. Published by King Fahd
+  Glorious Quran Printing Complex. https://quranenc.com/ar/browse/arabic_moyassar
+- Al-Mukhtasar fi Tafsir al-Quran al-Karim, Arabic edition 1.0.1.
+  Published by Tafsir Center for Quranic Studies.
+  https://quranenc.com/ar/browse/arabic_mokhtasar
+- Tafsir Al-Saadi, Arabic edition 1.0.0, by Abd Al-Rahman Al-Saadi.
+  Loaded on demand from the QuranEnc tafsir API rather than bundled.
+  https://quranenc.com/ar/browse/arabic_saadi
+
+Publisher's republication terms and API: https://quranenc.com/en/home
+The packaged data preserves the publisher's verse references, commentary and
+footnotes. Keep the publisher, source and edition credit, follow the source's
+conditions for republication and update the bundled edition when the source
+releases a replacement. The source's terms govern this data.
+
+The asset generator reads the QuranEnc surah API for all 114 surahs and checks
+every row against the Mushaf verse counts before packaging the edition.

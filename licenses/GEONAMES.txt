@@ -1,0 +1,5 @@
+Additional city coordinates, English names, and IANA time zones are from
+GeoNames (https://www.geonames.org/) via geonamescache 3.0.2, cities15000.
+The app includes a selected subset and adds Arabic display names.
+GeoNames data is licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
